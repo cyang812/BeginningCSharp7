@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginningCSharp7", "BeginningCSharp7\BeginningCSharp7.csproj", "{8A7EFE94-8099-47A8-B117-163D7878EB8F}"
 EndProject
@@ -193,7 +193,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch17Ex01", "..\Chapter17\Ch
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ch17Ex02", "..\Chapter17\Ch17Ex02\", "{0254A0AD-DABA-4546-9E55-B9722D427337}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_57847"
 		Debug.AspNetCompiler.PhysicalPath = "..\Chapter17\Ch17Ex02\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57847\"
@@ -338,6 +338,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch25Ex06", "Ch25Ex06", "{9A14EC8E-51DF-4E96-A83B-8A283304630F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicNavigation", "..\Chapter25\Ch25Ex06\BasicNavigation\BasicNavigation.csproj", "{FB60F89F-1326-4F06-80C3-39BA61E1CE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch07Ap4", "Exercise\Ch07Ap4.csproj", "{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2215,6 +2217,16 @@ Global
 		{FB60F89F-1326-4F06-80C3-39BA61E1CE62}.Release|x86.ActiveCfg = Release|x86
 		{FB60F89F-1326-4F06-80C3-39BA61E1CE62}.Release|x86.Build.0 = Release|x86
 		{FB60F89F-1326-4F06-80C3-39BA61E1CE62}.Release|x86.Deploy.0 = Release|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Debug|ARM.ActiveCfg = Debug|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Debug|x64.ActiveCfg = Debug|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Debug|x86.ActiveCfg = Debug|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Debug|x86.Build.0 = Debug|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Release|Any CPU.ActiveCfg = Release|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Release|ARM.ActiveCfg = Release|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Release|x64.ActiveCfg = Release|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Release|x86.ActiveCfg = Release|x86
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2345,6 +2357,7 @@ Global
 		{B942AEE9-F4D8-42FC-89F5-AF82CF90F888} = {F6B8F27E-7EEB-477F-8EC8-91C1FD0E8660}
 		{9A14EC8E-51DF-4E96-A83B-8A283304630F} = {20A11446-418B-4C52-BC4C-21E973E40C08}
 		{FB60F89F-1326-4F06-80C3-39BA61E1CE62} = {9A14EC8E-51DF-4E96-A83B-8A283304630F}
+		{27EEFE9C-82A6-4E3A-BC6B-46C805B37E19} = {0C84FE8A-3AA7-43FA-B2CD-87B39AACB691}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F596D385-8F2C-409A-B4F9-A815F1E00878}

@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>BeginningCSharp7_23_2_DatabaseRelations</RootNamespace>
     <AssemblyName>BeginningCSharp7_23_2_DatabaseRelations</AssemblyName>
-    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
